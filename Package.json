@@ -1,0 +1,15 @@
+{
+  "name": "ai-marketing-app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "private": true,
+  "dependencies": {
+    "expo": "~50.0.0",
+    "react": "18.2.0",
+    "react-native": "0.73.0",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/stack": "^6.3.16",
+    "react-native-purchases": "^7.0.0",
+    "firebase": "^10.7.0"
+  }
+}
