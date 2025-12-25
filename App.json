@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "AI Marketing App",
+    "slug": "ai-marketing-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.yourname.aimarketingapp"
+    }
+  }
+}
